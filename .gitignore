@@ -1,0 +1,8 @@
+.vscode
+*.code-workspace
+
+
+debug/
+target/
+**/*.rs.bk
+*.pdb
